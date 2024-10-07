@@ -1,1 +1,6 @@
 /myenv/
+/data/
+medals_scrapping.py
+olympic_api.py
+moroccan-medals.xlsx
+/.DS_Store
