@@ -1,5 +1,5 @@
 /myenv/
-/data/
+/data/results
 medals_scrapping.py
 olympic_api.py
 moroccan-medals.xlsx
